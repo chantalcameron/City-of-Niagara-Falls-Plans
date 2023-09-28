@@ -22,10 +22,10 @@ source-code: https://github.com/chantalcameron/City_of_Niagara_Falls_Plans
 # title of site appears in banner
 title: City of Niagara Falls Plans 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: City of Niagara Falls Plans
+tagline: A collection of plans, surveys and maps of the City of Niagara Falls beginning in 1832 until 1928.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: A collection of 37 plans, surveys or maps of the City of Niagara Falls beginning in 1832 until 1928.  
+description: A collection of plans, surveys and maps of the City of Niagara Falls beginning in 1832 until 1928.  
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: chantalcameron
 
