@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-The collection consists of 37 plans, surveys or maps of the City of Niagara Falls, Ontario, beginning in 1832 until 1928. The plans show the various developments in Niagara Falls duirng a time of significant growth including subdivisions, railways, and bridges.   
+The collection consists of 41 plans, surveys or maps of the City of Niagara Falls, Ontario, beginning in 1832 until 1928. The plans show the various developments in Niagara Falls duirng a time of significant growth including subdivisions, railways, and bridges.   
 
 ## City of the Falls Company
 
