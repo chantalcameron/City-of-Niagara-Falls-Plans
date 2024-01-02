@@ -29,6 +29,8 @@ The first bridge spanning the Niagara Gorge was opened in 1848.   This suspensio
 
 With the increasing use of electric railways, it became apparent that the suspension bridge was not adequate to support the increased weight and a new bridge would need to be built.  Construction of a new steel arch bridge began in 1897, and was opened to traffic in June 1898.   It consisted of one level and could accommodate electric trolleys, carriages, and pedestrians.  This bridge was known as the Falls View Bridge and Honeymoon Bridge.  It remained in operation until January, 1938, when it collapsed from the pressure of ice jams on the bridge's supporting abutments.  It was replaced with the Rainbow Bridge, which remains in use.
 
+{% include feature/image.html objectid="item19" width="50%"}
+
 Railways
 
 With the construction of bridges across the Niagara Gorge, new opportunities for railway deveopment became possible.  Around 1848, businessman Samuel Zimmerman purchased several hundred acres of land on the Canadian side of the suspension bridge, located at the site of the present-day whirlpool bridge.  He proceeded to lay out streets and plots, as well as constructing commercial buildings.  This community was known as the Village of Elgin and became the Canadian terminus of the railway when the new suspension bridge opened in 1855.  Elgin merged with the Village of Clifton in 1856 and became known as the Town of Clifton.  Over the years, Clifton evolved into a railway hub, becoming the eastern terminus of the Great Western Railway and connecting to the American railway network via the suspension bridge.    
