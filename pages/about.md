@@ -18,7 +18,7 @@ The collection consists of 41 plans, surveys or maps of the City of Niagara Fall
 
 ## City of the Falls Company
 
-Some of the plans were created for the City of the Falls Company.  The Company was owned by a group of successful and influential men in Upper Canada who proposed a real estate venture on land near the Falls.  The Company's shareholders included James Buchanan, the Honourable William Allan, the Honourable John Henry Dunn, Thomas Dixon, Lieutenant General John Murrary, James Robinson, Samuel Street Jr., and Thomas Clark.  They envisioned a residential development that would be designed to help preserve the natural beauty of the area.  However, the company did not have sufficient funds to see the project through and the proposed development never materialized.  Although the project ultimatley failed, the streets in the area still bear the names of the project's shareholders.
+Some of the plans were created for the City of the Falls Company.  The Company was owned by a group of successful and influential men in Upper Canada who proposed a real estate venture on land near the Falls around 1832.  The Company's shareholders included James Buchanan, the Honourable William Allan, the Honourable John Henry Dunn, Thomas Dixon, Lieutenant General John Murrary, James Robinson, Samuel Street Jr., and Thomas Clark.  They envisioned a residential development that would be designed to help preserve the natural beauty of the area.  However, the company did not have sufficient funds to see the project through and the proposed development never materialized.  Although the project ultimatley failed, the streets in the area still bear the names of the project's shareholders.
 
 
 {% include feature/image.html objectid="item29" width="50"%}
